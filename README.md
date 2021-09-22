@@ -1,90 +1,50 @@
-# Welcome to GitHub
+# **Start contributing some projects**
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+As a Beginner, When you practice tech stacks you like with your favourite programming language and look for starting your journey in Open Source World, Then the most important step is the first step i.e How to start your first Contribution!! Well for contribution you don&#39;t have to wait to be a master in that domain, Even Beginner can contribute which is why every project has beginner friendly issues.
 
-## Repositories
+**How to Begin with first project**
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+**Start with beginner friendly projects**
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+For contribution you can go for any big project, But Understanding large codebases at beginner level may become a problem for you because it is difficult to find where you domain code lies and also your code depends on various things which feels messed up and you end up leaving that project and look at next, this way you may end up saying i can&#39;t find a project.
 
-## Describe your project
+So It is better to start slow, you can begin with beginner friendly projects, There are some repositories listed below which are best suited for someone looking for starting journey:
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+- [https://github.com/MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+- [https://opensourcefriday.com/](https://opensourcefriday.com/)
+- [https://up-for-grabs.net/#/](https://up-for-grabs.net/#/)
+- [https://opensourcefriday.com/](https://opensourcefriday.com/)
+- [https://www.codetriage.com/](https://www.codetriage.com/)
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+**Open Source your project**
 
-## Your first website
+If you have made some projects in your tech stack Open-sourcing them may be a great way to get started. Just put your project on github and look for contribution from the community, This way will not just make your project better but will also build your network with the developers around the world. There are many popular libraries and framework which were once open-sourced by an individual.
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+**Participate in open-source programs**
 
-[Learn more about GitHub Pages](https://pages.github.com/)
+If you are not able to find a project to begin with or looking to explore communities then participating in open-source programs is a great option to go with. These programs really help someone to build strong profile in open source and specially made for beginners, you will meet experienced people who are there to help you. There are many open source programs you can participate in:
 
-## Rename this repository to publish your site
+[![](RackMultipart20210922-4-a5l3hh_html_1390b2865b67763d.png)](https://user-images.githubusercontent.com/54666019/133761912-280dbcbe-b5d4-49ad-8e95-8e5dbb4bcf38.png)
 
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+- [Outreachy](https://www.outreachy.org/)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [Girlscript Winter of Contributing](https://gwoc.girlscript.tech/)
+- [Rails Girl Summer of Code](https://railsgirlssummerofcode.org/)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [Redox Summer Of Code](https://www.redox-os.org/rsoc/)
+- You can find more programs and contest [here](https://github.com/tapaswenipathak/Open-Source-Programs).
 
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
+**What to Contribute to open source projects**
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+Contribution in a project does not mean you can only contribute code-base. There are many other ways you can contribute too, Below are some ways:
 
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
+- You can write documentation of a project to elaborate its functions.
+- You can add example in some code to show the working of code.
+- You can write translations for the project.
+- You can add answers to someone&#39;s doubt regarding project.
 
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
+**prerequisite for a contribution**
 
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
-
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-## Making your first edit
-
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
-
-## Practice: Customize your first GitHub website by writing HTML code
-
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
-
-Let’s start with this template:
-
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
-
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
-
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
-
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
-
-
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
-
-
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
-
-:tada: You just made your first commit! :tada:
-
-## Extra Credit: Keep on building!
-
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+- **Code of Conduct** : It is a document which defines the culture of a community and sets the standard and expectations of contributer to follow when it comes to their behaviour. Adopting a Code of Conduct creates positive environment in the community.
+- **README** : It is a document made for contributers which helps n getting started with the project. it generally contains the description of the project and its working to help contributer understanding the project in an effective way.
+- **Project guidelines** : There are some guidelines which needs to be followed by contributers, It basically guide the contributers on what type of contributions can be done to improve the project.
